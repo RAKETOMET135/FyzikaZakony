@@ -1,0 +1,28 @@
+{
+    "laws": [
+        {
+            "name": "1. Keplerův zákon",
+            "exact": "Planety se pohybují po elipsách málo odlišných od kružnic, v jejichž ohnisku je Slunce."
+        },
+        {
+            "name": "2. Keplerův zákon",
+            "exact": "Obsahy ploch opsaných průvodičem planety za jednotku času jsou konstantní."
+        },
+        {
+            "name": "3. Keplerův zákon",
+            "exact": "Poměr druhých mocnin oběžných dob dvou planet se rovná poměru třetích mocnin hlavních poloos jejich trajektorií."
+        },
+        {
+            "name": "1. Newtonův zákon (Zákon setrvačnosti)",
+            "exact": "Jestliže na těleso nepůsobí žádné vnější síly, nebo výslednice sil je 0, pak těleso setrvává v klidu nebo v rovnoměrném přímočarém pohybu."
+        },
+        {
+            "name": "2. Newtonův zákon (Zákon síly)",
+            "exact": "Jestliže na těleso působí síla, pak se těleso pohybuje se zrychlením, které je přímo úměrné působící síle a nepřímo úměrné hmotnosti tělesa."
+        },
+        {
+            "name": "3. Newtonův zákon (Zákon akce a reakce)",
+            "exact": "Proti každé akci vždy působí stejně velká ale opačná reakce; jinak: vzájemná působení dvou těles jsou vždy stejně velká a míří na opačné strany. Síly akce a reakce vznikají i zanikají současně a nikdy se nevyruší, protože působí na dvě různá tělesa."
+        }
+    ]
+}
